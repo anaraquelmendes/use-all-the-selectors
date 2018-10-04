@@ -1,0 +1,11 @@
+body {
+  background-color: #fdf63e;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+nav ul {
+  font-family: sans-serif;
+}
