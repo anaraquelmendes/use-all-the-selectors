@@ -22,7 +22,7 @@ h2 {
   color: #93a1a1;
 }
 
-.wrapper > .dfn{
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
@@ -42,7 +42,7 @@ h2 {
   background-color: #719e07;
 }
 
-.contents li:nth-child(3){
+.contents li:nth-child(3) {
   background-color: #2694d8;
 }
 
@@ -57,6 +57,7 @@ ol li:nth-child(odd) {
 .types li:nth-child(even) {
   background-color: #586e75;
 }
-.types li:nth-child(3){
+
+.types li:nth-child(3) {
   background-color: #d04b16;
 }
