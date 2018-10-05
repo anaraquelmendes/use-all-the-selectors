@@ -26,23 +26,23 @@ h2 {
   background-color: #b58900;
 }
 
-.logo li:nth-child (1) {
+.logo li:nth-child(1) {
   background-color: #719e07;
 }
 
-.logo li: nth-child (3) {
+.logo li: nth-child(3) {
   background-color: #719e07;
 }
 
-.logo li: nth-child (4) {
+.logo li: nth-child(4) {
   background-color: #719e07;
 }
 
-.contents li: nth-child (1) {
+.contents li: nth-child(1) {
   background-color: #719e07;
 }
 
-.contents li: nth-child (3){
+.contents li: nth-child(3){
   background-color: #2694d8;
 }
 
