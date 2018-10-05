@@ -1,5 +1,5 @@
 body {
-  background-color: #fdf63e;
+  background-color: #fdf6e3;
 }
 
 header, footer {
@@ -11,11 +11,11 @@ nav ul {
 }
 
 .logo {
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 .wrapper {
-  background-color: #eee8d5
+  background-color: #eee8d5;
 }
 
 h2 {
@@ -23,7 +23,7 @@ h2 {
 }
 
 .wrapper > .dfn{
-  background-color: b58900;
+  background-color: #b58900;
 }
 
 .logo li: nth-child (1) {
@@ -47,7 +47,7 @@ h2 {
 }
 
 ol li: first-child {
-  color: #2aa198
+  color: #2aa198;
 }
 
 ol li: nth-child (odd) {
