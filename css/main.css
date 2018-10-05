@@ -11,9 +11,29 @@ nav ul {
 }
 
 .logo {
-  text-transform:uppercase
+  text-transform:uppercase;
 }
 
 .wrapper {
   background-color: #eee8d5
+}
+
+h2 {
+  add color: #93a1a1;
+}
+
+.wrapper > .dfn{
+  background-color: b58900;
+}
+
+.logo li: nth-child (1) {
+  background-color: #719e07;
+}
+
+.logo li: nth-child (3) {
+  background-color: #719e07;
+}
+
+.logo li: nth-child (4) {
+  background-color: #719e07;
 }
