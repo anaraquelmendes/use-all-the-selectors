@@ -27,7 +27,7 @@ h2 {
 }
 
 strong p > div {
-  color : #fff
+  color: #fff;
 }
 
 strong p + div {
