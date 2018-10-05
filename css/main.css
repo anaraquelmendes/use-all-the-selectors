@@ -26,6 +26,10 @@ h2 {
   background-color: #b58900;
 }
 
+strong p+div {
+  color: #fff;
+}
+
 .logo li:nth-child(1) {
   background-color: #719e07;
 }
