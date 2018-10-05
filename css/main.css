@@ -30,33 +30,33 @@ h2 {
   background-color: #719e07;
 }
 
-.logo li: nth-child(3) {
+.logo li:nth-child(3) {
   background-color: #719e07;
 }
 
-.logo li: nth-child(4) {
+.logo li:nth-child(4) {
   background-color: #719e07;
 }
 
-.contents li: nth-child(1) {
+.contents li:nth-child(1) {
   background-color: #719e07;
 }
 
-.contents li: nth-child(3){
+.contents li:nth-child(3){
   background-color: #2694d8;
 }
 
-ol li: first-child {
+ol li:first-child {
   color: #2aa198;
 }
 
-ol li: nth-child (odd) {
+ol li:nth-child (odd) {
   background-color: #657ba3;
 }
 
-.types li: nth-child (even) {
+.types li:nth-child (even) {
   background-color: #586e75;
 }
-.types li: nth-child (3){
+.types li:nth-child (3){
   background-color: #d04b16;
 }
