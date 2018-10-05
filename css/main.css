@@ -19,14 +19,14 @@ nav ul {
 }
 
 h2 {
-  add color: #93a1a1;
+  color: #93a1a1;
 }
 
 .wrapper > .dfn{
   background-color: #b58900;
 }
 
-.logo li: nth-child (1) {
+.logo li:nth-child (1) {
   background-color: #719e07;
 }
 
