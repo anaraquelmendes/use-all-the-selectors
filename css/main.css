@@ -20,30 +20,48 @@ nav ul {
 
 h2 {
   color: #93a1a1;
+  font-weight: bold;
 }
 
 .wrapper > .dfn {
   background-color: #b58900;
 }
 
-strong p > div {
+.dfn {
+  color: #000;
+}
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+p + strong {
   color: #fff;
+  font-weight: bold;
 }
 
-strong p + div {
-  color: #fff;
+ul li strong:first-child {
+  color: #000;
 }
 
-.logo li:nth-child(1) {
+h1 nav ul li {
   background-color: #719e07;
 }
 
-.logo li:nth-child(3) {
-  background-color: #719e07;
-}
-
-.logo li:nth-child(4) {
-  background-color: #719e07;
+.no-hightlight {
+  background-color: #eee8d5;
 }
 
 .contents li:nth-child(1) {
@@ -54,11 +72,7 @@ strong p + div {
   background-color: #2694d8;
 }
 
-ol li:first-child {
-  color: #2aa198;
-}
-
-ol li:nth-child(odd) {
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
@@ -66,6 +80,6 @@ ol li:nth-child(odd) {
   background-color: #586e75;
 }
 
-.types li:nth-child(3) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
